@@ -1,4 +1,3 @@
-```markdown
 # Poker-Inspired Stock Trading Strategy
 
 ## Introduction
@@ -23,4 +22,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspiration from poker decision strategies.
 - Yahoo Finance for providing AAPL stock data.
 - Contributors who have discussed and improved upon the initial strategies.
-```
