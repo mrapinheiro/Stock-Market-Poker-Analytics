@@ -29,7 +29,7 @@ Our analysis demonstrates that while the poker-inspired strategy provides intere
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/poker-trading-algorithm.git
+git clone https://github.com/mrapinheiro/poker-trading-algorithm.git
 
 # Install required packages
 pip install pandas numpy matplotlib yfinance
